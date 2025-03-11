@@ -3,6 +3,7 @@
 using namespace std;
 int depth = 0;
 
+//define a struct for binTree
 struct node{
     int value;
     node* left;
